@@ -77,3 +77,4 @@ C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSi
 C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.dll
 C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.pdb
 C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.csproj.CopyComplete
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.csprojAssemblyReference.cache

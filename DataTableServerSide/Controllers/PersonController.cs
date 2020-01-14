@@ -71,10 +71,10 @@ namespace DataTableServerSide.Controllers
                 //aplique o filtro em todas as colunas visíveis da tabela
                 //eu optei por filtrar as colunas decimais e de data apenas quando o usuário inserir um valor compatível
                 Pessoas = Pessoas.Where(x =>
-                    (isInt && x.PersonID.Equals(intValue)) ||
+                    (isInt && x.PersonID == intValue) ||
                     x.Name.Contains(search) ||
                     x.Email.Contains(search) ||
-                    (isDate && x.DateOfBirth.Equals(dateValue)) ||
+                    (isDate && x.DateOfBirth == dateValue) ||
                     x.PhoneNumber.Contains(search) ||
                     x.City.Contains(search)
                 );

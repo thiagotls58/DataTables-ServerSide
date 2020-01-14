@@ -3,11 +3,38 @@
 $(function () {
     tablePersons = $("#tablePersons").DataTable({
 
+        // Checkbox
+        // Inserindo checkbox na tabela
+        'columnDefs': [
+            {
+                'targets': 0,
+                'checkboxes': {
+                    'selectRow': true
+                }
+            },
+            {
+                'targets': 4,
+                'render': function (data) {
+                    return moment(data).format("DD/MM/YYYY");
+                }
+            }
+        ],
+
+        'select': {
+            'style': 'multi'
+        },
+
+        // ordenando pela primeira coluna
+        'order': [[1, 'asc']],
+
         // Configurations Server Side
         "serverSide": true,
         "ajaxSource": "/Person/SearchPersons",
         "processing": true,
         "columns": [
+            {
+                "data": "PersonID"
+            },
             {
                 "name": "PersonID",
                 "data": "PersonID"
@@ -77,6 +104,43 @@ $(function () {
             }
         }
     });
-
-    new $.fn.dataTable.FixedHeader(tablePersons);
 });
+
+// Personalizacao da caixa de pesquisa do DataTable
+$(document).on("preInit.dt", function () {
+    var $sb = $(".dataTables_filter input[type='search']");
+    // remove current handler
+    $sb.off();
+
+    // Pesquisa quando aperta o 'Enter'
+    $sb.on("keypress", function (evtObj) {
+        if (evtObj.keyCode == 13) {
+            $('#tablePersons').DataTable().search($sb.val()).draw();
+        }
+    });
+    // Pesquisa quando aperta o botão
+    var btn = $("<button type='button'>Go</button>");
+    $sb.after(btn);
+    btn.on("click", function (evtObj) {
+        $('#tablePersons').DataTable().search($sb.val()).draw();
+    });
+});
+
+function getRowsSelecteds() {
+
+    var selectedIds = tablePersons.columns().checkboxes.selected()[0];
+    //console.log(selectedIds);
+    var rows = [];
+
+    selectedIds.forEach(function (id) {
+
+        for (var i = 0; i < tablePersons.data().length; i++) {
+            if(tablePersons.data()[i].PersonID == id) {
+                rows.push(tablePersons.data()[i]);
+            }
+        }
+    });
+    alert('Veja os dados no console do browser!');
+    console.log(rows);
+    
+}
