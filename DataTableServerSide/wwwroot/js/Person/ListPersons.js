@@ -3,7 +3,8 @@
 $(function () {
     tablePersons = $("#tablePersons").DataTable({
 
-        // Checkbox
+        "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "Todos"]],
+
         // Inserindo checkbox na tabela
         'columnDefs': [
             {

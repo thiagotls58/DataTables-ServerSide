@@ -91,7 +91,9 @@ namespace DataTableServerSide.Controllers
             Pessoas = Pessoas.OrderBy(ColunaOrdenada + " " + Params.sSortDir_0);
 
             //pegando apenas os resultados relativos a página atual
-            Pessoas = Pessoas.Skip(Params.iDisplayStart).Take(Params.iDisplayLength);
+            int itensTake = (Params.iDisplayLength == -1) ? TotalPessoas : Params.iDisplayLength;
+
+            Pessoas = Pessoas.Skip(Params.iDisplayStart).Take(itensTake);
 
             //fazendo a query e retornando a viewmodel...
             return Pessoas.Select(x => new Person()

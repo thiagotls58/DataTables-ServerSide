@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\intepp\\Source\\Repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\DataTableServerSide.csproj": {}
+    "C:\\Users\\intepp\\source\\repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\DataTableServerSide.csproj": {}
   },
   "projects": {
-    "C:\\Users\\intepp\\Source\\Repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\DataTableServerSide.csproj": {
+    "C:\\Users\\intepp\\source\\repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\DataTableServerSide.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\intepp\\Source\\Repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\DataTableServerSide.csproj",
+        "projectUniqueName": "C:\\Users\\intepp\\source\\repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\DataTableServerSide.csproj",
         "projectName": "DataTableServerSide",
-        "projectPath": "C:\\Users\\intepp\\Source\\Repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\DataTableServerSide.csproj",
+        "projectPath": "C:\\Users\\intepp\\source\\repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\DataTableServerSide.csproj",
         "packagesPath": "C:\\Users\\intepp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\intepp\\Source\\Repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\obj\\",
+        "outputPath": "C:\\Users\\intepp\\source\\repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
