@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Personal Projects\\DataTableServerSide\\DataTableServerSide\\DataTableServerSide.csproj": {}
+    "C:\\Users\\intepp\\Source\\Repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\DataTableServerSide.csproj": {}
   },
   "projects": {
-    "D:\\My Personal Projects\\DataTableServerSide\\DataTableServerSide\\DataTableServerSide.csproj": {
+    "C:\\Users\\intepp\\Source\\Repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\DataTableServerSide.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Personal Projects\\DataTableServerSide\\DataTableServerSide\\DataTableServerSide.csproj",
+        "projectUniqueName": "C:\\Users\\intepp\\Source\\Repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\DataTableServerSide.csproj",
         "projectName": "DataTableServerSide",
-        "projectPath": "D:\\My Personal Projects\\DataTableServerSide\\DataTableServerSide\\DataTableServerSide.csproj",
-        "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "D:\\My Personal Projects\\DataTableServerSide\\DataTableServerSide\\obj\\",
+        "projectPath": "C:\\Users\\intepp\\Source\\Repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\DataTableServerSide.csproj",
+        "packagesPath": "C:\\Users\\intepp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\intepp\\Source\\Repos\\thiagotls58\\DataTables-ServerSide\\DataTableServerSide\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\intepp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -79,7 +79,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

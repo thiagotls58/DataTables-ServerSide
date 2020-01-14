@@ -5,30 +5,43 @@
 
 @section Styles{
     <link href="~/lib/DataTables/DataTables-1.10.20/css/jquery.dataTables.min.css" rel="stylesheet" />
+    <link href="~/lib/jquery-datatables-checkboxes-1.2.11/css/dataTables.checkboxes.css" rel="stylesheet" />
+    <link href="~/lib/DataTables/FixedHeader-3.1.6/css/fixedHeader.dataTables.min.css" rel="stylesheet" />
+    <link href="~/lib/DataTables/Responsive-2.2.3/css/responsive.dataTables.min.css" rel="stylesheet" />
 }
 
 @section Scripts{
     <script src="~/lib/DataTables/DataTables-1.10.20/js/jquery.dataTables.min.js"></script>
+    <script src="~/lib/jquery-datatables-checkboxes-1.2.11/js/dataTables.checkboxes.min.js"></script>
+    <script src="~/lib/DataTables/FixedHeader-3.1.6/js/fixedHeader.dataTables.js"></script>
+    <script src="~/lib/DataTables/Responsive-2.2.3/js/dataTables.responsive.min.js"></script>
+    <script src="~/lib/moment.js/moment.min.js"></script>
+
     <script src="~/js/Person/ListPersons.js"></script>
 }
 
-<h2>List Persons</h2>
+<h2 class="h2">List Persons</h2>
 
-<table id="tablePersons">
-    <thead>
-        <tr>
-            <th>Id</th>
-            <th>Name</th>
-            <th>Email</th>
-            <th>Date Of Birth</th>
-            <th>Phone Number</th>
-            <th>City</th>
-        </tr>
-    </thead>
-    <tbody>
-
-    </tbody>
-</table>
+<br />
+<br />
+<div class="card-body">
+    <table id="tablePersons" class="display">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Date Of Birth</th>
+                <th>Phone Number</th>
+                <th>City</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    <br />
+    <button type="button" class="btn btn-success" onclick="">Get Selecteds</button>
+</div>
 
 
 

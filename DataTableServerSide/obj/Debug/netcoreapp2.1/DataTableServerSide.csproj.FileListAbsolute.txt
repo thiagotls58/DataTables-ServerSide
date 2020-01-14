@@ -38,3 +38,42 @@ D:\My Personal Projects\DataTableServerSide\DataTableServerSide\obj\Debug\netcor
 D:\My Personal Projects\DataTableServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Person\Edit.cshtml.g.cs
 D:\My Personal Projects\DataTableServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Person\Index.cshtml.g.cs
 D:\My Personal Projects\DataTableServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Person\ListPersons.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\bin\Debug\netcoreapp2.1\DataTableServerSide.deps.json
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\bin\Debug\netcoreapp2.1\DataTableServerSide.runtimeconfig.json
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\bin\Debug\netcoreapp2.1\DataTableServerSide.runtimeconfig.dev.json
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\bin\Debug\netcoreapp2.1\DataTableServerSide.dll
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\bin\Debug\netcoreapp2.1\DataTableServerSide.pdb
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\bin\Debug\netcoreapp2.1\DataTableServerSide.Views.dll
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\bin\Debug\netcoreapp2.1\DataTableServerSide.Views.pdb
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.RazorAssemblyInfo.cache
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.RazorAssemblyInfo.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.AssemblyInfoInputs.cache
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.AssemblyInfo.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.TagHelpers.input.cache
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.TagHelpers.output.cache
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.RazorCoreGenerate.cache
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Person\Create.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Person\Delete.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Person\Details.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Person\Edit.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Person\Index.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Person\ListPersons.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.RazorTargetAssemblyInfo.cache
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.RazorTargetAssemblyInfo.cs
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.Views.pdb
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.dll
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.pdb
+C:\Users\intepp\Source\Repos\thiagotls58\DataTables-ServerSide\DataTableServerSide\obj\Debug\netcoreapp2.1\DataTableServerSide.csproj.CopyComplete
